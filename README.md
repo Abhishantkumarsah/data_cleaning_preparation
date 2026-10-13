@@ -15,10 +15,9 @@ The objective of this project is to clean and prepare a publicly available retai
 ## Dataset Information
 
 * **Dataset:** Retail Store Sales
-* **Source:** Kaggle (add the exact dataset URL used)
+* **Source:** Kaggle 
 * **Format:** CSV
-* **Original records:** [Add actual count]
-* **Final records:** [Add actual count]
+
 
 ## Tools Used
 
